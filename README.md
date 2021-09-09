@@ -1,4 +1,11 @@
-### Hi there 👋
+⚡⚡ Seja bem-vindo ao meu Github ⚡⚡
+
+Olá, sou Matheus Krapf, desenvolvedor Front-End Jr.
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuskrapf&count_private=true&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskrapf&count_private=true&show_icons=true&theme=tokyonight" height="180em"  />
+</div>
 
 <!--
 **MatheusKrapf/matheuskrapf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
